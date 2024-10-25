@@ -1,7 +1,4 @@
-# Cryptography - 19CS412
-### Pseudorandom Number Generation
-
-## Exp 6 - Implementation of Pseudorandom Number Generation using Standard library
+# EX-NO-6-Pseudo-Random-Number
 
 ## AIM : -
 To implement Pseudorandom Number Generation using Standard Library.
